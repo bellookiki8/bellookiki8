@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @bellookiki8
-- 👀 I’m interested in learning Vue
-- 🌱 I’m currently learning REACT JS
 - 📫 you can reach me on belloSamuel76@gmail.com
 
 <!---
