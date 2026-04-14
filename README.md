@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bellookiki8
+- 👋 Hi, I’m Bello Okikioluwa
 - 📫 you can reach me on bellosamuel76@gmail.com
 
 <!---
